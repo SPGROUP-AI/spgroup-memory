@@ -7,34 +7,39 @@ Last Updated: 2026-04-21
 - **운영 시장**: KR / US
 - **설립**: 2022.12
 - **홈페이지**: https://spgpinc.com
-- **도메인**: spgpinc.com
 
 ## 핵심 연락처
 - **Brian Lee** (Director): brianlee@spgpinc.com
 - **JARVIS** (AI 이메일 인텔리전스): jarvis@spgpinc.com
 
-## SPGROUP AI 에이전트 팀
-| 에이전트 | 역할 | 상태 |
-|---------|------|------|
-| JARVIS | 이메일 인텔리전스 + AutoReply | ✅ 가동 중 |
-| HUNTER | US 영업 인텔리전스 | ✅ |
-| APEX | CFO · 재무전략 | ✅ |
-| VERA | 디자인 & 문서 | ✅ |
-| LUMINA | 웹사이트 자동 관리 | ✅ |
+## JARVIS 시스템
+- Apps Script 프로젝트: jarvis@spgpinc.com 계정
+- Google Sheets DB: 1gQ2VOsA2Eo7eUdgShj9BxpnWGj99QddpG5rV2ltmDGk
+- GitHub Website: SPGROUP-AI/spgroup-website
+- GitHub Memory: SPGROUP-AI/spgroup-memory
+- AutoReply 태그: [SPGROUP INQUIRY]
 
-## JARVIS 시스템 설정
-- **Apps Script**: jarvis@spgpinc.com 계정 (Project ID: 1xSrT_3Qq9cylEEguiQi9a362VNMqzbQEWXD7kdqvKAO6-8EliTI6VxZA)
-- **Google Sheets DB**: 1gQ2VOsA2Eo7eUdgShj9BxpnWGj99QddpG5rV2ltmDGk
-- **GitHub Website Repo**: SPGROUP-AI/spgroup-website
-- **AutoReply 태그**: [SPGROUP INQUIRY]
-- **트리거**: 5분(이메일), 매일 09:00(Daily), 매일 14:00(미답장), 매주 월 08:00(Weekly)
+## 트리거 (5개)
+| 함수 | 주기 |
+|------|------|
+| onNewEmailReceived | 5분마다 |
+| checkAndAutoReply | 5분마다 |
+| generateDailyReport | 매일 09:00 (월~토) |
+| checkUnrepliedEmails | 매일 14:00 |
+| generateWeeklyReport | 매주 월 08:00 |
+
+## 이메일 분류 (가먼트 수출)
+ORDER / SAMPLE / SHIPMENT / PAYMENT / COMPLAINT / PRICE / NEW_BUYER / INTERNAL / OTHER
 
 ## VERA 컬러 시스템
-| 색상 | HEX | 용도 |
-|------|-----|------|
-| Midnight | #1A1F2E | 커버/헤더 |
-| SP Blue | #2D4FC4 | CI 주색상 |
-| Periwinkle | #6B8CFF | 강조/링크 |
-| SP Taupe | #9B8B72 | CI 보조색 |
-| Warm Grey | #E8E4DD | 테이블 교차행 |
-| Chalk | #FAFAF8 | 페이지 배경 |
+Midnight #1A1F2E / SP Blue #2D4FC4 / Periwinkle #6B8CFF
+SP Taupe #9B8B72 / Warm Grey #E8E4DD / Chalk #FAFAF8
+
+## 에이전트 팀
+| 에이전트 | 역할 | memory 파일 |
+|---------|------|------------|
+| JARVIS | 이메일 인텔리전스 + AutoReply | agents/jarvis_memory.md |
+| HUNTER | US 영업 인텔리전스 | agents/hunter_memory.md |
+| APEX | CFO · 재무전략 | agents/apex_memory.md |
+| VERA | 디자인 & 문서 | agents/vera_memory.md |
+| LUMINA | 웹사이트 관리 | agents/lumina_memory.md |
