@@ -1,9 +1,9 @@
 # Open Items
+Last Updated: 2026-04-22 (자동)
 
 ## 🟠 HIGH
 - [ ] JARVIS/APEX/VERA/LUMINA 프로젝트 지침 MEMORY PROTOCOL 추가
-  (HUNTER 완료 ✅)
-- [ ] Sheets emails 탭 수동 정렬 (Data > Sort sheet > Z→A)
+- [ ] Sheets emails 탭 수동 정렬 (Data > Sort Z→A)
 
 ## 🔵 NORMAL
 - [ ] Daily Report AI 분류 정확도 개선
@@ -14,13 +14,9 @@
 
 ## ✅ 완료
 - [x] JARVIS v4.0 배포
+- [x] URGENT만 Brian 알림 (HIGH 제외)
 - [x] AutoReply INQUIRY_TAG 버그 수정
-- [x] Sheets 권한 (jarvis@)
 - [x] Daily Report Gmail 직접 검색
-- [x] Daily Report UTF-8 + 클릭 링크
-- [x] brianlee 발신 제외
-- [x] 미답장 24시간 추적
-- [x] GitHub Memory 8개 파일
-- [x] HUNTER 지침 MEMORY PROTOCOL
+- [x] GitHub Memory 자동 업데이트 시스템
+- [x] 5개 에이전트 memory.md 구축
 - [x] INQUIRY 태그 복구
-- [x] 5개 에이전트 memory.md 오늘 업데이트
