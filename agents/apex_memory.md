@@ -1,5 +1,5 @@
 # APEX 메모리
-Last Updated: 2026-04-22 (자동)
+Last Updated: 2026-04-27 (자동)
 
 ## 역할
 SPGROUP CFO AI — 재무전략, 비용 분석, 수익성 관리
@@ -18,4 +18,4 @@ SPGROUP CFO AI — 재무전략, 비용 분석, 수익성 관리
 ## JARVIS 연동
 - Sheets DB PAYMENT/INVOICE 데이터 참조
 
-자동 업데이트: 2026-04-22
+자동 업데이트: 2026-04-27
