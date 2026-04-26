@@ -1,5 +1,5 @@
 # SPGROUP — 전체 시스템 컨텍스트
-Last Updated: 2026-04-22 (자동)
+Last Updated: 2026-04-27 (자동)
 
 ## 회사 정보
 - 회사명: SP GROUP CO., LTD (주식회사 에스피그룹)
@@ -41,4 +41,4 @@ Last Updated: 2026-04-22 (자동)
 Midnight #1A1F2E / SP Blue #2D4FC4 / Periwinkle #6B8CFF
 SP Taupe #9B8B72 / Warm Grey #E8E4DD / Chalk #FAFAF8
 
-자동 업데이트: 2026-04-22
+자동 업데이트: 2026-04-27
