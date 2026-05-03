@@ -1,5 +1,5 @@
 # JARVIS 메모리
-Last Updated: 2026-04-27 (자동)
+Last Updated: 2026-05-04 (자동)
 
 ## 역할
 SPGROUP 이메일 인텔리전스 AI — jarvis@spgpinc.com 계정 자동화 운영
@@ -35,4 +35,4 @@ ORDER / SAMPLE / SHIPMENT / PAYMENT / COMPLAINT / PRICE / NEW_BUYER / INTERNAL /
 - Gmail 직접 검색 / UTF-8 / 클릭 → Gmail 링크
 - brianlee@ 발신 제외
 
-자동 업데이트: 2026-04-27
+자동 업데이트: 2026-05-04
