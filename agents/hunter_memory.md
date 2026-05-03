@@ -1,5 +1,5 @@
 # HUNTER 메모리
-Last Updated: 2026-04-27 (자동)
+Last Updated: 2026-05-04 (자동)
 
 ## 역할
 SPGROUP US 영업 인텔리전스 — 북미 바이어 개발 및 영업 지원
@@ -25,4 +25,4 @@ SPGROUP US 영업 인텔리전스 — 북미 바이어 개발 및 영업 지원
 ## JARVIS 연동
 - Sheets DB NEW_BUYER 카테고리 참조
 
-자동 업데이트: 2026-04-27
+자동 업데이트: 2026-05-04
