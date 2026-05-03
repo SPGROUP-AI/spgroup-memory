@@ -1,5 +1,5 @@
 # LUMINA 메모리
-Last Updated: 2026-04-27 (자동)
+Last Updated: 2026-05-04 (자동)
 
 ## 역할
 SPGROUP 웹사이트 자동 관리 (spgpinc.com GitHub Pages)
@@ -15,4 +15,4 @@ SPGROUP 웹사이트 자동 관리 (spgpinc.com GitHub Pages)
 - INVESTOR RELATIONS: mailto:jarvis@spgpinc.com?subject=[SPGROUP INQUIRY] Investor Relations
 태그 없으면 AutoReply 작동 안됨. 업데이트 후 spgpinc.com 확인 필수.
 
-자동 업데이트: 2026-04-27
+자동 업데이트: 2026-05-04
