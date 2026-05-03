@@ -1,5 +1,5 @@
 # Open Items
-Last Updated: 2026-04-27 (자동)
+Last Updated: 2026-05-04 (자동)
 
 ## 🟠 HIGH
 - [ ] JARVIS/APEX/VERA/LUMINA 프로젝트 지침 MEMORY PROTOCOL 추가
